@@ -1,3 +1,4 @@
+// Code available at github.com/DrKrisChan/GoogleSheetOpenWeatherMap
 // Original Code written by Amit Agarwal www.ctrlq.org
 // Amended by Dr Kristofer Chan (kristofer.chan@kcl.ac.uk) to acquire weather data from OpenWeatherMap
 
