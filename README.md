@@ -15,5 +15,4 @@ Method:
   5) navigate to script.google.com. For the specific web app, click ... then Triggers. Click "create a new trigger", "Event source" -> "Time Driven" and set an appropriate interval (10-15 minutes is generally good).
 
 
-**Created by Dr Kristofer Chan
-Geography Department, King's College London**
+**Created by Dr Kristofer Chan - Department of Geography, King's College London**
