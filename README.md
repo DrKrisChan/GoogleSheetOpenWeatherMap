@@ -1,7 +1,9 @@
 # SheetOpenWeatherMap
 **Automatically download weather data to a Google Sheet from OpenWeatherMap**
 
-Method:
+
+
+Method (Video tutorial at youtu.be/764HGIfrMpA):
 - Create a new Google Sheet
 - Copy the entire code from the OpenWeatherMap.js file in this repository (https://github.com/DrKrisChan/SheetOpenWeatherMap/blob/master/OpenWeatherMap.js)
 - On the top toolbar, under Tools, click Script editor
@@ -16,3 +18,5 @@ Method:
 
 
 **Created by Dr Kristofer Chan - Department of Geography, King's College London**
+
+*Disclaimer: We are in no way affiliated with OpenWeatherMap or Google. Please abide by their terms of use and consider supporting them.
