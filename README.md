@@ -3,7 +3,7 @@
 
 
 
-Method (Video tutorial at youtu.be/764HGIfrMpA):
+Method (Video tutorial at https://youtu.be/764HGIfrMpA):
 - Create a new Google Sheet
 - Copy the entire code from the OpenWeatherMap.js file in this repository (https://github.com/DrKrisChan/SheetOpenWeatherMap/blob/master/OpenWeatherMap.js)
 - On the top toolbar, under Tools, click Script editor
