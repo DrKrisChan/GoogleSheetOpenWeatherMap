@@ -1,4 +1,4 @@
-# SheetOpenWeatherMap
+# OpenWeatherMap data to Google Sheet
 **Automatically download weather data to a Google Sheet from OpenWeatherMap**
 
 
