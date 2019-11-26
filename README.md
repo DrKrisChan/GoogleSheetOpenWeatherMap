@@ -3,7 +3,7 @@
 
 Method:
 - Create a new Google Sheet
-- Copy the entire code from the OpenWeatherMap.js https://github.com/DrKrisChan/SheetOpenWeatherMap/blob/master/OpenWeatherMap.js file in this repository
+- Copy the entire code from the OpenWeatherMap.js file in this repository (https://github.com/DrKrisChan/SheetOpenWeatherMap/blob/master/OpenWeatherMap.js)
 - On the top toolbar, under Tools, click Script editor
 - Replace the entire script with the copied script
 - Edit as instructed in the script (copied below):
