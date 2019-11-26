@@ -22,7 +22,7 @@ function writeJSONtoSheet(json) {
 }
 
 // Step 3: After the above has been edited:
-// a) We recommend renaming 1) the function (change Tawarano to your location), 2) "code.gs" (left toolbar), and 3) your project title (top toolbar)
+// a) We recommend renaming 1) the function (change writeJSONtoSheet to your location, e.g. writeJSONtoSheetBordeaux), 2) "code.gs" (left toolbar), and 3) your project title (top toolbar)
 // b) SAVE (CTRL+S)
 
 // Step 4: Under "Publish" on the top bar, click "Deploy as web app". Click Update and allow permissions via Google
