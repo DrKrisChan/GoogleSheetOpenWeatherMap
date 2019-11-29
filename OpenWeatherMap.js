@@ -4,7 +4,7 @@
 
 // Step 1: Setup an OpenWeatherMap account and find the API key
 
-// Step 2: EDIT THE LATITUDE (lat=), LONGITUDE (lon=) AND API KEY (APPID) BELOW
+// Step 2: EDIT THE LATITUDE (lat=), LONGITUDE (lon=) AND API KEY (APPID) BELOW. Note that it can take a bit of time for your API key to become active (normally less than an hour).
 
 var response = UrlFetchApp.fetch("https://api.openweathermap.org/data/2.5/weather?lat=51.4816&lon=-3.1791&appid=b6907d289e10d714a6e88b30761fae22"); 
 Logger.log(response)
