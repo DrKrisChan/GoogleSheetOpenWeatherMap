@@ -22,7 +22,7 @@ Method (Video tutorial at https://youtu.be/764HGIfrMpA):
 This work is licensed under a [Creative Commons Attribution 4.0 International
 License][cc-by] - any use of any material here requires attribution.
 
-**Created by [remote-research.org](https://remote-research.org) - Department of Geography, King's College London / [remote-research.org](https://remote-research.org)**
+**Created by Dr Kristofer Chan - Department of Geography, King's College London / [remote-research.org](https://remote-research.org)**
 
 *Disclaimer: We are in no way affiliated with OpenWeatherMap or Google. Please abide by their terms of use and consider supporting them.
 
