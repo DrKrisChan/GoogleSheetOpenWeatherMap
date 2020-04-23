@@ -18,7 +18,7 @@ Method (Video tutorial at https://youtu.be/764HGIfrMpA):
   4) Under "Publish" on the top bar, click "Deploy as web app". Click Update and allow permissions via Google
   5) navigate to script.google.com. For the specific web app, click ... then Triggers. Click "create a new trigger", "Event source" -> "Time Driven" and set an appropriate interval (10-15 minutes is generally good).
 
-# License
+# License & Usage
 This work is licensed under a [Creative Commons Attribution 4.0 International
 License][cc-by] - any use of any material here requires attribution.
 
